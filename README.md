@@ -12,11 +12,11 @@ time." alt="Typing Animation" />
 <p align="center">
   <img
 src="https://rawgithubusercontent.com/EBAxCodes/EBAxCodes/main
-/file_0000000052e471f5b9d72a38dcf5f04.png" width="180" style="border-radius:50%"
+/profile.jpg" width="180" style="border-radius:50%"
 alt="Profile Logo"/>
 </p>
 ---
-## 🚀 About Me
+## 🚀 About Me ##
 I'm Elijah Accam - a passionate developer from Ghana 
 on a building journey.
 I learn fast, experiment boldly, break things, fix things and level up every day.
@@ -53,7 +53,7 @@ src="https://komarev.com/ghpvc/?username=EBAxCodes&style=for-the
 -badge&color=blue" />
 </p>
 ---
-## 📂 Highlight Projects
+## 📂 Highlight Projects ##
 ### .  [🍿 Concession Stand 
 System] (https://github.com/EBAxCodes/concession-stand-system)
 A python terminal project simulating a concession system.
