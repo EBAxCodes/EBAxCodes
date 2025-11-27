@@ -11,7 +11,7 @@ time." alt="Typing Animation" />
 
 <p align="center">
   <img
-src="https://github.com/EBAxCodes/EBAxCodes/blob/main
+src="https://rawgithubusercontent.com/EBAxCodes/EBAxCodes/blob/main
 /1762966111410.jpg" width="180" style="border-radius:50%"
 alt="Profile Logo"/>
 </p>
