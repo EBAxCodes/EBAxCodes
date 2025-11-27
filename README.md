@@ -2,7 +2,7 @@
 <h1 align="center">
   <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=
-28&pause=1200&colour=1EC6FF&center=true&vCenter=true&width=650&
+28&pause=1200&color=1EC6FF&center=true&vCenter=true&width=650&
 lines=Hi%2C+I'm+Elijah+Accam+%FO%9F%91
 %8B;An+Aspiring+AI+Engineer;Python+Developer+ 
 %7C+AI+Creativity+Enthusiast;Building+my+future+one+commit+at+a+
@@ -11,7 +11,7 @@ time." alt="Typing Animation" />
 
 <p align="center">
   <img
-src="https://raw.githubusercontent.com/EBAxCodes/EBAxCodes/main
+src="https://github.com/EBAxCodes/EBAxCodes/blob/main
 /1762966111410.jpg" width="180" style="border-radius:50%"
 alt="Profile Logo"/>
 </p>
@@ -41,7 +41,7 @@ I learn fast, experiment boldly, break things, fix things and level up every day
 > Pictory.ai
 
 ### **Badges**
-<p>
+<p align="left">
   <img
 src="https://img.shields.io/badge/Python-3.11-blue?style=for-the 
 badge&logo=python" />
@@ -54,7 +54,7 @@ src="https://komarev.com/ghpvc/?username=EBAxCodes&style=for-the
 </p>
 ---
 ## 📂 Highlight Projects
-### . [🍿 Concession Stand 
+### .  [🍿 Concession Stand 
 System] (https://github.com/EBAxCodes/concession-stand-system)
 A python terminal project simulating a concession system.
 **Includes:** Modular design, MIT License, and clean code principles.
