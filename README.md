@@ -58,7 +58,7 @@ A beginner friendly number guessing game built with functions, loops and clean e
 **Status:** In development
 
 ### . More Projects Loading...
-> Python aythomation tools
+> Python authomation tools
 > Creative AI experiments
 > Web development mini-projects
 ---
