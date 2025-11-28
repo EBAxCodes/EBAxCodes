@@ -8,13 +8,6 @@ lines=Hi%2C+I'm+Elijah+Accam+%FO%9F%91
 %7C+AI+Creativity+Enthusiast;Building+my+future+one+commit+at+a+
 time." alt="Typing Animation" />
 </h1>
-
-<p align="center">
-  <img
-src="https://rawgithubusercontent.com/EBAxCodes/EBAxCodes/main
-/profile.jpg" width="180" style="border-radius:50%"
-alt="Profile Logo"/>
-</p>
 ---
 ## 🚀 About Me ##
 I'm Elijah Accam - a passionate developer from Ghana 
